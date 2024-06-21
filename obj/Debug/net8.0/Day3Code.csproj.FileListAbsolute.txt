@@ -1,0 +1,14 @@
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\bin\Debug\net8.0\Day3Code.exe
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\bin\Debug\net8.0\Day3Code.deps.json
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\bin\Debug\net8.0\Day3Code.runtimeconfig.json
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\bin\Debug\net8.0\Day3Code.dll
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\bin\Debug\net8.0\Day3Code.pdb
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\obj\Debug\net8.0\Day3Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\obj\Debug\net8.0\Day3Code.AssemblyInfoInputs.cache
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\obj\Debug\net8.0\Day3Code.AssemblyInfo.cs
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\obj\Debug\net8.0\Day3Code.csproj.CoreCompileInputs.cache
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\obj\Debug\net8.0\Day3Code.dll
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\obj\Debug\net8.0\refint\Day3Code.dll
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\obj\Debug\net8.0\Day3Code.pdb
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\obj\Debug\net8.0\Day3Code.genruntimeconfig.cache
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day3Code\Day3code\obj\Debug\net8.0\ref\Day3Code.dll
